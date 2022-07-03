@@ -7,7 +7,7 @@ I'm equlon, I'm something of a LUA, HTML, CSS developer myself, and...
 
 💫 I listen to Top G.
 
-👨‍💻 Adriatic Development tebex: https://adriaic-development.tebex.io
+👨‍💻 Adriatic Development:https://discord.gg/bwQHhmP2KV
 
 [![Discord Presence](https://cdn.discordapp.com/attachments/857343327455281155/992889643974529134/unknown.png)](https://discord.com/922925053056794674)
 
