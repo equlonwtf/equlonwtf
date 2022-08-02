@@ -9,7 +9,7 @@ I'm equlon, I'm something of a LUA, HTML, CSS developer myself, and...
 
 👨‍💻 Adriatic Development:https://discord.gg/bwQHhmP2KV
 
-[![Discord Presence](https://cdn.discordapp.com/attachments/857343327455281155/992889643974529134/unknown.png)](https://discord.com/922925053056794674)
+[![Discord Presence](https://cdn.discordapp.com/attachments/989505794447913031/1004131818007711764/unknown.png)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=equlonwtf&layout=compact&langs_count=10&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
